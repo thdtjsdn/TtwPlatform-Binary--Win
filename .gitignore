@@ -69,3 +69,7 @@ metrics.*
 ***/__Ttw/*
 
 ***/log/**/*.txt
+
+
+_git_add_commit_push.bat
+_git_pull.bat
